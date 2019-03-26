@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <math.h>
-#define INF 1 << 29
+#define INF (1 << 29) * 2
 #define LLINF 4545454545454545454
 #define MOD 1000000007
 #define ll long long
